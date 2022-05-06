@@ -20,7 +20,7 @@ Vectorization as that we have made in [Software-radio](https://github.com/Haitha
 
 Vectorization can be with many programming language not MATLAB/Octave only it can be used with python which is widly used in Deep learning where Tensor flow used we can also use numpy
 
-
+<b>Note that</b> this task is for 3D vectorization but can be extended to any other dimension.
 # Reference
 * [Mathwork](https://www.mathworks.com)
 * [stackoverflow](https://stackoverflow.com/questions/1422149/what-is-vectorization)
