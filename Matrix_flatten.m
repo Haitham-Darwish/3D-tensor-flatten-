@@ -27,7 +27,7 @@ if choice==1
    
 else
     % If user don't care, use this way because it is faster
-    t_3_D(:)
+    t_1_D=t_3_D(:)
 
 end
 toc
