@@ -16,7 +16,8 @@ Vectorization describes the absence of any explicit looping, indexing, etc., in 
 3. The code more closely resembles standard mathematical notation (making it easier, typically, to correctly code mathematical constructs)
 4. Vectorization results in more “Pythonic” code. Without vectorization, our code would be littered with inefficient and difficult to read for loops.
 
-Vectorization as that we have made in [Software-radio](https://github.com/Haitham-Darwish/Software-radio) or [Matched-Filters-Correlators-ISI](https://github.com/Haitham-Darwish/Matched-Filters-Correlators-ISI) to compute Auto correlation or the output of correlator...etc  which faten the code tremendously as wihtout vectorization code may be lag and take too much time to run and may be not run.
+Vectorization as that we have made in [Software-radio](https://github.com/Haitham-Darwish/Software-radio) or [Matched-Filters-Correlators-ISI](https://github.com/Haitham-Darwish/Matched-Filters-Correlators-ISI) to compute Auto correlation or the output of correlator...etc  which flatten the code tremendously as wihtout vectorization code may be lag and take too much time to run and may be not run.
+You can also check [Torque Speed Characteristics](https://github.com/Haitham-Darwish/torque-speed-characteristics) where we could made 4 or 5D tensors  
 
 Vectorization can be with many programming language not MATLAB/Octave only it can be used with python which is widly used in Deep learning where Tensor flow used we can also use numpy
 
