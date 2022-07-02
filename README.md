@@ -18,7 +18,7 @@ Vectorization describes the absence of any explicit looping, indexing, etc., in 
 
 Vectorization as that we have made in [Software-radio](https://github.com/Haitham-Darwish/Software-radio) or [Matched-Filters-Correlators-ISI](https://github.com/Haitham-Darwish/Matched-Filters-Correlators-ISI) to compute Auto correlation or the output of correlator...etc  which flatten the code tremendously as wihtout vectorization code may be lag and take too much time to run and may be not run.
 You can also check [Torque Speed Characteristics](https://github.com/Haitham-Darwish/torque-speed-characteristics) where we could made 4 or 5D tensors  
-to check the BER in Communicaion we used vectorization to speed up the running  in [baseband-equivalent-system](https://github.com/Haitham-Darwish/baseband-equivalent-system) where we compare different modulation schemes.
+To check the BER in Communicaion we used vectorization to speed up the running  in [baseband-equivalent-system](https://github.com/Haitham-Darwish/baseband-equivalent-system) where we compare different modulation schemes.
 Vectorization can be with many programming language not MATLAB/Octave only it can be used with python which is widly used in Deep learning where Tensor flow used we can also use numpy
 
 <b>Note that</b> this task is for 3D vectorization but can be extended to any other dimension.
