@@ -1,4 +1,10 @@
 # 3D-tensor-flatten-
+<blockquote>
+ "Using vectorization will both make your code shorter and also make it run much more efficiently. Learning how to write vectorized code will allow you to also take advantage of modern numerical linear algebra libraries, as well as maybe even GPU hardware"
+<i>--Andrew</i>
+</blockquote>
+
+
 ![Matrix_Faltten](https://github.com/Haitham-Darwish/3D-tensor-flatten-/blob/main/Matrix%20Flatten.gif)
 # Inroduction
 Many CPUs have "vector" or "SIMD" instruction sets which apply the same operation simultaneously. i.e., we can add two vector at same time with no for loop, by adding first element in first register with the first element in second register and second element in first register with the second element in second register...etc
